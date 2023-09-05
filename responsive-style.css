@@ -1,0 +1,155 @@
+@media (max-width:650px){
+    .nav{
+        padding: 1rem 0rem;
+        font-size: 0.4rem;
+        height: 2rem;
+    }
+    .nav li a{
+        margin: 0rem 0.8rem;
+    }
+    .home{
+        padding-top: 2.5rem;
+    }
+    .name{
+        font-size:3.7rem;
+        margin-left: 5rem;
+    }
+    .title{
+        font-size: 2.3rem;
+        margin-left: 2rem;
+        margin-top: -1rem;
+    }
+    .home img{
+        width: 8.5rem;
+        height: 12rem;
+        margin: -2rem 7rem;
+    }
+    .about{
+        margin-top: 8rem;
+        margin-left: 2.8rem;
+        font-size: 0.8rem;
+        width: 80vw;
+        margin-bottom: 8rem;
+    }
+    .question-container{
+        margin-top: 0rem;
+        margin-bottom: 5rem;
+    }
+    .question-container h1{
+        margin: 0.5rem 3rem;
+        font-size: 2rem;
+    }
+    .tag{
+        background-color: rgba(241, 12, 12,0.6);
+        font-size: 0.5rem;
+        width: 55vw;
+        height: 2rem;
+    }
+    .tag1{
+        margin: 1rem 2rem;
+       
+    }
+    .tag2{
+        margin: 3rem 10rem;
+        width: 52vw;
+    }
+    .tag3{
+        margin: -2rem 2rem;
+        width: 70vw;
+    }
+    .tag4{
+        margin: 4rem 10rem;
+        width: 53vw;
+    }
+    .answer-container{
+        margin-left: 3rem;
+        font-size: 0.8rem;
+        width: 80vw;
+    }
+    .skills h1{
+        margin: 0rem 2.7rem;
+        font-size: 2rem;
+    }
+    .orbit{
+        width: 5rem;
+        height: 5rem;
+        margin-left: 10rem;
+        display: none;
+    }
+    
+    .orbit li{
+       width: 4rem; 
+    }
+    .globe{
+        width:  5rem;
+        height: 5rem;
+    }
+    .responsive-skills{
+        display: block;
+    }
+    .project-slides{
+        margin-top: 2rem;
+        display: flex;
+        flex-wrap: wrap;
+        grid-template-columns: 60vw 40vw;
+    }
+    .left-container{
+        margin-left: 2rem;
+    }
+    .left-container p{
+        font-size: 0.7rem;
+    }
+    .left-container h1{
+        font-size: 2rem;
+    }
+    .right-container{
+        margin-left: 4rem;
+    }
+    .lower-image{
+        margin-top: 0rem;
+        margin-left: -18rem;
+        width: 20rem;
+        height: 20rem;
+    }
+    .work-header{
+     margin: 1rem 5.4rem;
+     font-size: 1rem;
+    }
+    .work-header p{
+        margin-left: -6rem;
+    }
+    .filter{
+        margin: 0rem 3rem;
+        margin-bottom: -10rem;
+    }
+    .filter ul{
+        display: grid;
+        grid-template-columns: 5rem 5rem 5rem;
+        grid-template-rows: 5rem 5rem 5rem;
+        margin: 3rem 0rem;
+    }
+    .filter ul li{
+        width: 4rem;
+        font-size: 0.6rem;
+        padding-top: 0.7rem;
+    }
+    .projects-container{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .project{
+        margin-left: 0.5rem;
+        margin-top: 2rem;
+    }
+    .what-now{
+        margin: 10rem 2rem;
+        font-size: 1rem;
+        width: 19rem;
+    }
+    .contact-container{
+        margin: 2rem 1rem;
+    }
+    .contact-container p{
+        font-size: 3rem;
+    }
+}
