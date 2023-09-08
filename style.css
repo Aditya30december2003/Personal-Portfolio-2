@@ -371,5 +371,11 @@ padding-top: 3rem;
 .responsive-skills{
     display: none;
 }
-
+footer{
+    margin: 3rem 32rem;
+    font-size: 1.3rem;
+    font-family:'Michroma', sans-serif ;
+    width: 20rem;
+    margin-bottom: 2rem;
+}
 
